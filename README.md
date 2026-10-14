@@ -16,7 +16,7 @@ An OpenCode TUI plugin that shows a small floating panel with all your agents, t
 1. Clone or copy this repository somewhere on your machine:
 
    ```sh
-   git clone <repo-url> ~/git/opleiding/agent-list
+   git clone https://github.com/ray1618/opencodePlugin-agent-list ~/git/opleiding/agent-list
    ```
 
 2. Register the plugin in your OpenCode TUI config by pointing to `tui.tsx`:
