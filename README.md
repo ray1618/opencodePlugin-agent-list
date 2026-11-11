@@ -40,7 +40,7 @@ The plugin id is `ray.agent-list`.
 
 ## Usage
 
-The panel appears in the bottom right corner. Toggle it with the `/agent-list` slash command or with "Toggle agent list" in the command palette. The visibility is remembered between sessions.
+The panel appears in the bottom right corner. It is hidden automatically when the terminal is narrower than 120 columns. Toggle it with the `/agent-list` slash command or with "Toggle agent list" in the command palette. The visibility is remembered between sessions.
 
 ## Notes
 
